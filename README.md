@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ppedraum
 - 👀 I’m interested in learning new things and sharing them with the world ^^
 - 🌱 2º semestre do curso técnico de informática SATC
-- 💞️ I’m looking to collaborate on anything i get interested :-)
+- 💞️ I’m looking to collaborate on anything i get interested on :-)
 - 📫 How to reach me ...
 Twitter: @ppedraum
 Discord: pedraum#8603
