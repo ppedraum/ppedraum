@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 + 😃 Meu nome é Pedro Henrique, mas pode me chamar de ppedraum 
-+ 👨‍🎓 Estou cursando Engenharia de Software na SATC.
++ 👨‍🎓 Estou cursando Engenharia da Computação na SATC (5o semestre).
 + ☑️ Meus repositórios são principalmente coisas relacionadas ao curso (tanto o técnico em informática quanto a faculdade), além também do meu TCC para o técnico, que está pronto.
 
 <!---
